@@ -1,1 +1,1 @@
-# django-react-login-system
+# djangoReact
